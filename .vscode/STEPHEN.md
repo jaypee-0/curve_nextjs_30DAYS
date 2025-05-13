@@ -15,8 +15,11 @@
 
 - **Branching**:
   Also Learned how to create and switch between branches using:
-  `git checkout -b "branch-name"`: to create a new branch
-  `git checkout branch-name`: to switch between branches
+  `git checkout -b "branch-name"`: to create a new branch.
+
+  `git push --set-upstream origin branch-name`: to set the branch you created as an upstream, so it would be registered in the repository and you can push to it.
+  
+  `git checkout branch-name`: to switch between branches.
 
 - **To Create a New Repository**
   git init
