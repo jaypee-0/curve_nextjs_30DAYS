@@ -92,7 +92,7 @@ Welcome to the 30-day learning challenge designed for React developers looking t
 
 ## 🙌 Contribution
 
-Feel free to fork and expand this curriculum! PRs are welcome.
+Feel free to fork  expand this curriculum! PRs are welcome.
 
 ---
 
